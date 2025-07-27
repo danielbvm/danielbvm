@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbvm&label=Profile%20views&color=0e75b6&style=flat" alt="danielbvm" /> </p>
 
-- 🔭 I’m currently working on **hokm-Game**
+- 🔭 I’m currently working on **ai_project**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **d.boveiry@yahoo.com**
 
